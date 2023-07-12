@@ -76911,7 +76911,7 @@ I(a){var s=this,r=null,q=A.ir(50),p=new A.Oa(B.AD,r)
 return new A.c5(B.lF,new A.GM(s.e,r,r,r,A.uB(r,r,p,r,r,r,r,r,r,r,r,r,r,new A.b7(B.lH,t.Ak),r,new A.b7(new A.cb(q,B.t),t.kU),r,r,r,r,new A.b7(r,t.wG),r),B.o,r,!1,r,A.e1(A.fD(A.a([A.iE(s.c,r,30,r),A.cN(r,r,s.f.a*0.01),A.c8(s.d,r,r,r,A.mS().$3$color$fontSize$fontWeight(B.l,18,B.c_),r,r)],t.p),B.Z,B.a8,B.N),B.ku),r),r)}}
 A.Hk.prototype={
 I(a){var s=null,r=A.ir(20),q=A.a([$.amU()],t.V),p=t.p
-return A.vO(s,A.e1(new A.c5(B.C5,A.dn(s,A.fD(A.a([A.iE("assets/images/PNG/email.png",s,100,s),new A.c5(new A.ac(20,0,20,0),A.cN(new A.M0(s),100,s),s),A.GG(A.dS(A.a([A.c8("Starting New Project?",s,s,s,A.mS().$2$fontSize$fontWeight(42,B.as),s,s),B.KQ,A.c8("Get an estimate for the new project",s,s,s,A.mS().$1$fontWeight(B.cf),s,s)],p),B.bv,B.a8,B.N),1),new A.pR("assets/images/PNG/hand.png","Hire Me!",A.at5(),this.c,s)],p),B.Z,B.a8,B.N),B.o,s,B.kp,new A.bS(B.i,s,s,r,q,s,B.V),s,s,s,B.lG,s,s,s),s),B.bQ),B.aJ,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s)}}
+return A.vO(s,A.e1(new A.c5(B.C5,A.dn(s,A.fD(A.a([A.iE("assets/images/PNG/email.png",s,100,s),new A.c5(new A.ac(20,0,20,0),A.cN(new A.M0(s),100,s),s),A.GG(A.dS(A.a([A.c8("Starting New Project?",s,s,s,A.mS().$2$fontSize$fontWeight(42,B.as),s,s),B.KQ,A.c8("Get an estimate for the new project",s,s,s,A.mS().$1$fontWeight(B.cf),s,s)],p),B.bv,B.a8,B.N),1),new A.pR("assets/images/PNG/hand.png","Contact Me!",A.at5(),this.c,s)],p),B.Z,B.a8,B.N),B.o,s,B.kp,new A.bS(B.i,s,s,r,q,s,B.V),s,s,s,B.lG,s,s,s),s),B.bQ),B.aJ,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s)}}
 A.Ip.prototype={
 I(a){var s=this,r=null
 return new A.IL(s.e,r,r,r,A.apC(r,r,r,r,r,r,r,r,r,r,r,r,B.lH,r,new A.cb(A.ir(50),B.t),new A.aG(B.AQ,2,B.A,-1),r,r,r,r),B.o,r,!1,r,A.e1(A.fD(A.a([A.iE(s.c,r,30,r),A.cN(r,r,s.f.a*0.01),A.c8(s.d,r,r,r,A.mS().$2$fontSize$fontWeight(18,B.c_),r,r)],t.p),B.Z,B.a8,B.N),B.ez),r)}}
@@ -76941,13 +76941,13 @@ s=t.p
 return A.dn(r,A.lm(A.e1(A.dS(A.a([A.ou(B.df,A.a([A.c8(m,r,r,r,A.d5(r,r,r,r,r,r,r,r,r,r,r,100,r,r,B.as,l,r,!0,r,r,r,r,r,A.a([new A.d9(0,B.bd,A.N(B.d.b5(127.5),166,0,255),new A.j(0,5),10)],t.kO),r,r),r,r),A.c8(m,r,r,r,A.d5(r,r,B.i,r,r,r,r,r,r,r,r,100,r,r,B.as,r,r,!0,r,r,r,r,r,r,r,r),r,r)],s),B.ax,B.cu),A.cN(r,10,r),A.c8("Years of Experience",r,r,r,A.d5(r,r,B.AE,r,r,r,r,r,r,r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r)],s),B.Z,B.cP,B.N),B.ku),new A.bS(B.AP,r,r,o,n,r,B.V),B.bw),B.o,r,r,new A.bS(B.AV,r,r,p,r,r,B.V),r,q.b*0.27,new A.ac(20,0,20,0),new A.ac(20,20,20,20),r,r,q.a*0.14)}}
 A.DQ.prototype={
 I(a){var s=null,r=A.bq(a,s,t.w).w.a,q=t.p
-return A.dn(s,A.dS(A.a([A.fD(A.a([B.y7,B.lL,new A.GH("01",r,s),B.lL],q),B.Z,B.fn,B.N),B.KR,A.e1(A.fD(A.a([new A.Ip("assets/images/PNG/hand.png","Hire Me!",A.at5(),r,s),A.cN(s,s,r.a*0.01),new A.pR("assets/images/PNG/download.png","Download CV",A.aGs(),r,s)],q),B.Z,B.cP,B.N),B.bQ)],q),B.Z,B.a8,B.N),B.o,s,B.kp,s,s,s,B.BY,s,s,s,s)}}
+return A.dn(s,A.dS(A.a([A.fD(A.a([B.y7,B.lL,new A.GH("01",r,s),B.lL],q),B.Z,B.fn,B.N),B.KR,A.e1(A.fD(A.a([new A.Ip("assets/images/PNG/hand.png","Contact Me!",A.at5(),r,s),A.cN(s,s,r.a*0.01),new A.pR("assets/images/PNG/download.png","Download CV",A.aGs(),r,s)],q),B.Z,B.cP,B.N),B.bQ)],q),B.Z,B.a8,B.N),B.o,s,B.kp,s,s,s,B.BY,s,s,s,s)}}
 A.Fv.prototype={
 I(a){var s=this,r=null
 return A.e1(A.cN(A.aCC(!1,!1,B.yl,s.f,A.ap0(r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,s.d,r,r,r,r,!1,r,r,r,s.c,r,r,r,r,r,r,r,r,r,r,r,r,r),r,s.x,s.y,B.jw,s.w),r,s.e),B.bQ)}}
 A.FB.prototype={
 I(a){var s=null,r="Let's Connect!",q=this.c,p=t.p
-return A.dn(s,A.dS(A.a([A.e1(A.fD(A.a([A.alv(B.AJ,"assets/images/PNG/linkedIn.png",r,A.aGv(),q),A.alv(B.AW,"assets/images/PNG/messenger.png",r,A.aGu(),q),A.alv(B.AG,"assets/images/PNG/facebook.png",r,A.aGt(),q)],p),B.Z,B.fn,B.N),B.ez),A.cN(s,q.b*0.05,s),new A.uU(q,s)],p),B.Z,B.a8,B.N),B.o,s,new A.aj(0,q.a*0.9,0,1/0),B.yR,s,s,B.BX,B.lG,s,s,s)}}
+return A.dn(s,A.dS(A.a([A.e1(A.fD(A.a([A.alv(B.AJ,"assets/images/PNG/linkedIn.png",r,A.aGv(),q),A.alv(B.AW,"assets/images/PNG/messenger.png",r,A.aGu(),q),A.alv(B.AG,"assets/images/PNG/facebook.png",r,A.aGt(),q)],p),B.Z,B.fn,B.N),B.ez),A.cN(s,q.b*0.05,s),new A.uU(q,s)],p),B.Z,B.a8,B.N),B.o,s,new A.aj(0,q.a*0.9,0,1/0),B.yQ,s,s,B.BX,B.lG,s,s,s)}}
 A.uU.prototype={
 af(){var s=null
 return new A.MV(new A.bw(s,t.am),A.Lj(s),A.Lj(s),A.Lj(s),A.Lj(s),A.Lj(s),B.k)}}
@@ -77031,7 +77031,7 @@ $1(a){this.a.w.sl(0,a)},
 $S:12}
 A.FC.prototype={
 I(a){var s=null,r=A.bq(a,s,t.w).w.a
-return A.dn(s,A.dS(A.a([new A.re("Contact Me","For Project inquiry and information",r,B.Ae,s),new A.FB(r,s),A.cN(s,r.b*0.1,s)],t.p),B.Z,B.a8,B.N),B.o,s,s,B.yQ,s,s,B.BT,s,s,s,1/0)}}
+return A.dn(s,A.dS(A.a([new A.re("Contact Me","For Project inquiry and information",r,B.Ae,s),new A.FB(r,s),A.cN(s,r.b*0.1,s)],t.p),B.Z,B.a8,B.N),B.o,s,s,B.yP,s,s,B.BT,s,s,s,1/0)}}
 A.Ju.prototype={
 I(a){return new A.lM(new A.a4Q(this,a),null)}}
 A.a4Q.prototype={
@@ -77107,9 +77107,9 @@ for(r=o.a*0.01,q=0;q<4;++q)s[q]=new A.c5(new A.ac(r,0,r,0),new A.KC(q,o,A.alq(!1
 return A.dn(p,A.dS(A.a([new A.re("Technical Skills","Languages and Frameworks",o,B.lc,p),A.e1(A.fD(s,B.Z,B.fn,B.N),B.ez)],t.p),B.Z,B.a8,B.N),B.o,p,p,p,p,p,new A.ac(0,40,0,40),p,p,p,1/0)}}
 A.LH.prototype={
 I(a){var s=null,r=A.bq(a,s,t.w).w.a,q=r.b,p=r.a
-return A.dn(B.D,A.dn(s,A.ou(B.df,A.a([new A.HW(r,s),A.Jn(q*0.05,new A.Jc(r,s),s,s,s,p*0.05,s,s),A.Jn(0,new A.Ic(r,A.aqc(0),A.a(["Home","About","Projects","Services","Contact"],t.s),s),s,s,s,s,s,s)],t.p),B.ax,B.cu),B.o,s,s,s,s,s,B.BV,s,s,s,p*0.625),B.o,s,new A.aj(0,1/0,q*0.5,q*0.8),B.yP,s,s,s,s,s,s,1/0)}}
+return A.dn(B.D,A.dn(s,A.ou(B.df,A.a([new A.HW(r,s),A.Jn(q*0.05,new A.Jc(r,s),s,s,s,p*0.01,s,s),A.Jn(0,new A.Ic(r,A.aqc(0),A.a(["Home","About","Projects","Services","Contact"],t.s),s),s,s,s,s,s,s)],t.p),B.ax,B.cu),B.o,s,s,s,s,s,B.BV,s,s,s,p*0.625),B.o,s,new A.aj(0,1/0,q*0.5,q*0.8),B.yR,s,s,s,s,s,s,1/0)}}
 A.Hf.prototype={
-I(a){var s=null,r=A.ir(10),q=$.a6().Nw(5,5,B.c6),p=A.bq(a,s,t.w).w.a.a*0.09,o=this.c,n=A.N(0,255,255,255)
+I(a){var s=null,r=A.ir(10),q=$.a6().Nw(2,2,B.c6),p=A.bq(a,s,t.w).w.a.a*0.09,o=this.c,n=A.N(0,255,255,255)
 return new A.Fl(r,A.ax3(A.pq(A.dn(s,A.e1(A.dS(A.a([A.c8("Hello There!",s,s,s,A.L(a).p3.f.bR(B.i),s,s),A.c8("Dharti\nChauhan",s,s,s,A.mS().$4$color$fontSize$fontWeight$height(B.i,100,B.as,1.5),s,s),A.c8("Flutter Developer",s,s,s,A.L(a).p3.f.bR(B.i),s,s)],t.p),B.bv,B.cP,B.N),B.cC),B.o,n,new A.aj(0,o.a*0.5,0,o.b*0.5),s,s,s,s,new A.ac(p,0,p,0),s,s,1/0),s,s),q),s)}}
 A.HW.prototype={
 I(a){var s=this.c
@@ -80409,21 +80409,21 @@ B.yL=new A.aj(0,1/0,56,56)
 B.c9=new A.aj(0,1/0,0,1/0)
 B.yO=new A.aj(280,1/0,0,1/0)
 B.yN=new A.aj(48,1/0,48,1/0)
-B.yh=new A.l4("assets/images/PNG/keyboards.png",null,null)
+B.AO=new A.q(4293456121)
+B.yi=new A.l4("assets/images/PNG/bg_img_2.png",null,null)
 B.hv=new A.la(2,"cover")
 B.cj=new A.qf(3,"noRepeat")
 B.dz=new A.nm(1,"low")
-B.Bs=new A.pQ(B.yh,B.hv)
-B.V=new A.Eu(0,"rectangle")
-B.yP=new A.bS(null,B.Bs,null,null,null,null,B.V)
-B.AO=new A.q(4293456121)
-B.yi=new A.l4("assets/images/PNG/bg_img_2.png",null,null)
 B.Bt=new A.pQ(B.yi,B.hv)
-B.yQ=new A.bS(B.AO,B.Bt,null,null,null,null,B.V)
+B.V=new A.Eu(0,"rectangle")
+B.yP=new A.bS(B.AO,B.Bt,null,null,null,null,B.V)
 B.i=new A.q(4294967295)
 B.fF=new A.aD(20,20)
 B.yA=new A.bX(B.fF,B.fF,B.fF,B.fF)
-B.yR=new A.bS(B.i,null,null,B.yA,null,null,B.V)
+B.yQ=new A.bS(B.i,null,null,B.yA,null,null,B.V)
+B.yh=new A.l4("assets/images/PNG/bg.png",null,null)
+B.Bs=new A.pQ(B.yh,B.hv)
+B.yR=new A.bS(null,B.Bs,null,null,null,null,B.V)
 B.yS=new A.la(0,"fill")
 B.bQ=new A.la(1,"contain")
 B.ez=new A.la(3,"fitWidth")
